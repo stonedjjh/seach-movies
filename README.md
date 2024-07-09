@@ -7,4 +7,5 @@ Props para pasar datos de un componente a otro.<br>
 Funciones de javascript como fetch y map para obtener y presentar los datos obtenido de la api.<br>
 
 
-La misma se puede visualizar en https://dj-projects.surge.sh/
+La misma se puede visualizar en <a href="https://dj-projects.surge.sh/" target="_blank" title="search movie">ver proyecto</a>
+Al hacer click se abrira una pestaña nueva donde podra ver la pagina en funcionamiento
